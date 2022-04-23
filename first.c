@@ -12,7 +12,7 @@ int main()
 int main(int argc, char const *argv[])
 {
     int a=3;
-    float b=3.3;
+    float b=3.55;
 
     printf("example\n");
     // scanf("%d", &a);
